@@ -1,1 +1,1 @@
-Source for <http://IBM-Bluemix.github.io>
+Source for <https://ibm-bluemix.github.io>
