@@ -1,0 +1,44 @@
+#-------------------------------------------------------------------------------
+[jsloyer]
+name    = "Jeff Sloyer"
+image   = "https://avatars3.githubusercontent.com/u/154126?v=3&s=120"
+twitter = "jsloyer"
+
+#-------------------------------------------------------------------------------
+[jthomas]
+name    = "James Thomas"
+image   = "https://avatars3.githubusercontent.com/u/2322?v=3&s=120"
+twitter = "thomasj"
+
+#-------------------------------------------------------------------------------
+[nheidloff]
+name    = "Niklas Heidloff"
+image   = "https://avatars3.githubusercontent.com/u/1425685?v=3&s=120"
+twitter = "nheidloff"
+
+#-------------------------------------------------------------------------------
+[osipov]
+name    = "Carl Osipov"
+image   = "https://avatars2.githubusercontent.com/u/972700?v=3&s=120"
+twitter = "osipov"
+
+#-------------------------------------------------------------------------------
+[pmuellr]
+name    = "Patrick Mueller"
+image   = "https://avatars1.githubusercontent.com/u/25117?v=3&s=120"
+twitter = "pmuellr"
+info    = """
+  <p>Patrick is a nearly 30 year veteran with IBM, and has been
+  developing for the web since 1993.  He has been fooling around
+  with Cloud Foundry since early 2013 ('the VCAP days'), and
+  with node.js for a few years.
+
+  <p>You can find out more about Patrick from his website,
+  <a href='http://muellerware.org'>http://muellerware.org</a>
+"""
+
+#-------------------------------------------------------------------------------
+[ryanjbaxter]
+name    = "Ryan Baxter"
+image   = "https://avatars2.githubusercontent.com/u/524254?v=3&s=120"
+twitter = "ryanjbaxter"

@@ -1,0 +1,60 @@
+[bluemix-hello-iojs-container]
+description = """
+  <p>sample iojs server that can be run on Bluemix Containers
+"""
+
+[bluemix-cloud-connectors]
+description = """
+  <p>Spring connectors for some Bluemix services
+"""
+
+[bluemix-python-flask-sample]
+description = """
+  <p>A sample application that uses the python flask microframework and can be
+  deployed to IBM Bluemix.
+"""
+
+[cf-models]
+description = """
+  <p>access Cloud Foundry models from node
+"""
+
+[iot-sensor-tag]
+description = """
+  <p>Sample code for connecting to a TI Sensor Tag and using that data in apps
+  deployed to Bluemix.
+"""
+
+[news-aggregator]
+description = """
+  <p>Bluemix.info - News Aggregator for Bluemix Developers
+"""
+
+[iot-raspberrypi]
+description = """
+  <p>This repository contains sample(s) for connecting Raspberry Pi devices to
+  the IBM Internet of Things Foundation
+"""
+
+[todo-apps]
+description = """
+  <p>Sample ToDo apps writtin in various languages
+"""
+
+[zendcon-2014-hackathon]
+description = """
+  <p>Sample PHP code for IBM Bluemix based applications with services including
+  NoSQL, email, and more.
+"""
+
+[cf-manifest-generator]
+description = """
+  <p>source for the
+  <a href='http://cfmanigen.mybluemix.net/'>http://cfmanigen.mybluemix.net/</a>
+  site.
+"""
+
+[bluechatter]
+description = """
+  <p>An IRC-like / chat application
+"""
