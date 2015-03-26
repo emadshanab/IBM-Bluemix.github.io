@@ -3,6 +3,10 @@
 name    = "Jeff Sloyer"
 image   = "https://avatars3.githubusercontent.com/u/154126?v=3&s=120"
 twitter = "jsloyer"
+info    = """
+  <p>Jeff has been with IBM for about 5 years.  He is a hacker/tinker at heart.
+  He passion is with Node.JS, IoT, and anything new (shiny object syndrome...)
+"""
 
 #-------------------------------------------------------------------------------
 [jthomas]
