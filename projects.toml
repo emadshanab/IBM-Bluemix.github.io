@@ -58,3 +58,9 @@ description = """
 description = """
   <p>An IRC-like / chat application
 """
+
+[auto-scaling-demo]
+description = """
+  <p>A Node app that displays CPU utilization and memory usage of the Cloud
+  Foundry instance that served the page
+"""
